@@ -1,0 +1,11 @@
+.list li{
+    cursor: pointer;
+}
+
+.main{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    margin: 20px;
+}
